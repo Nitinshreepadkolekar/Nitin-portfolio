@@ -11,15 +11,12 @@ h1{
   height:60px;
   align-items: center;
   font-size: 40px;
-
-
-
 }
 .innercontainer{
   max-width: 60%;
   color: #4A148C;
   font-family: 'Montserrat', sans-serif;
-  background-color: #E1BEE7;
+  background-color:rgb(225, 190, 231,0.7);
   padding: 50px;
   border-radius: 20px;
   line-height: 1.8rem;

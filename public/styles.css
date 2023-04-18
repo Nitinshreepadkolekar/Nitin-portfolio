@@ -1,5 +1,6 @@
 body{
   margin:0px;
+  height:100vh;
 }
 
 .nav{
@@ -50,6 +51,7 @@ li{
   grid-column-gap:45px;
   font-family: 'Ubuntu', sans-serif;
 }
+
 .features{
   display:flex;
   justify-content:center;
